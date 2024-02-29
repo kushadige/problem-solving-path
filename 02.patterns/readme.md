@@ -7,4 +7,3 @@
 - Dynamic Programming
 - Greedy Algorithms
 - Backtracking
-- **Many more!**
